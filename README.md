@@ -1,6 +1,6 @@
-# Node-Babel Boilerplate
+# Aemulus Order List Backend API
 
-> A minimal and neat Node-Babel boilerplate for technical test purpose.
+> The backend API for the Aemulus's test.
 
 ## Build Setup
 
